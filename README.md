@@ -4,6 +4,7 @@
 
 - [个人学习笔记](https://github.com/Zidiefeng/GUI_study/blob/master/docs)
 - [code](https://github.com/Zidiefeng/GUI_study/tree/master/src/com/kaitan) 
+- [page](https://zidiefeng.github.io/GUI_study/)
 
 ---
 

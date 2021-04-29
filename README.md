@@ -2,7 +2,7 @@
 
 此repo记录了我学习GUI（狂神说Java系列）的笔记和代码：
 
-- [个人学习笔记](https://github.com/Zidiefeng/GUI_study/blob/master/doc)
+- [个人学习笔记](https://github.com/Zidiefeng/GUI_study/blob/master/docs)
 - [code](https://github.com/Zidiefeng/GUI_study/tree/master/src/com/kaitan) 
 
 ---
